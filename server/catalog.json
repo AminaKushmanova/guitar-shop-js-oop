@@ -1,0 +1,62 @@
+[
+	{
+		"id": "el1",
+		"name": "Акустическая гитара Stagg SA20D BLK",
+		"image_path": "../jmg/catalog/1.webp",
+		"price": 56000
+	},
+	{
+		"id": "el2",
+		"name": "Акустическая гитара Stagg SA20D SNB",
+		"image_path": "../jmg/catalog/2.webp",
+		"price": 56000
+	},
+	{
+		"id": "el3",
+		"name": "Акустическая гитара Stagg SA20D NAT",
+		"image_path": "../jmg/catalog/3.webp",
+		"price": 56000
+	},
+	{
+		"id": "el4",
+		"name": "Акустическая гитара Caraya F601-BS",
+		"image_path": "../jmg/catalog/4.webp",
+		"price": 55000
+	},
+	{
+		"id": "el5",
+		"name": "Акустическая гитара Caraya F640-N",
+		"image_path": "../jmg/catalog/5.webp",
+		"price": 55000
+	},
+	{
+		"id": "el6",
+		"name": "Акустическая гитара Tanglewood TWCR O",
+		"image_path": "../jmg/catalog/6.webp",
+		"price": 128800
+	},
+	{
+		"id": "el7",
+		"name": "Акустическая гитара Foix FFG-1041MH",
+		"image_path": "../jmg/catalog/7.webp",
+		"price": 45200
+	},
+	{
+		"id": "el8",
+		"name": "Акустическая гитара Veston D-45 SP/BKS",
+		"image_path": "../jmg/catalog/8.webp",
+		"price": 52000
+	},
+	{
+		"id": "el9",
+		"name": "Детская классическая гитара Stagg C410 размер 1/2",
+		"image_path": "../jmg/catalog/9.webp",
+		"price": 37000
+	},
+	{
+		"id": "el10",
+		"name": "Электрогитара Rockdale Stars HSS WH",
+		"image_path": "../jmg/catalog/10.webp",
+		"price": 71500
+	}
+]
